@@ -1,5 +1,4 @@
-# Projekt-One
-Analyze Donald Trump's Speeches 
+# Analyze Donald Trump's Speeches 
 
 
 web_scraping.py
