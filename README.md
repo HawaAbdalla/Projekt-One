@@ -3,7 +3,7 @@
 
 web_scraping.py
 My program executes browser automation using the Selenium package. The program scrolls on the page and loads more until a certain condition is met. When the condition is met, the program scrolls to the top of the page while appending links and dates that are related to Trump speeches. The links and dates are then written to a .txt file.
-I faced obstacles during this process. The initial website that I had to scrape had an unstable scrolling mechanism. I were not able to gather a consistent number of links. This left us working with a different website, which also caused issues since the layout changed sporadically throughout my work. 
+I faced obstacles during this process. The initial website that I had to scrape had an unstable scrolling mechanism. I were not able to gather a consistent number of links. This left me working with a different website, which also caused issues since the layout changed sporadically throughout my work. 
 
 processing_url_content.py
 My script can be divided into two major parts: getting content from URLs and processing the content appropriately into a dataframe.
