@@ -1,7 +1,7 @@
 # Analyze Donald Trump's Speeches 
 -------
 This project is a Python based tool for analyzing Donald Trump’s speeches. It includes scripts for scraping, processing, and visualizing speech data using Selenium, pandas, and Dash.
-All main scripts are located in the `scripts/` folder and cover each step of the workflow — from data collection to final visualization.
+All main scripts are located in the `scripts/` folder and cover each step of the workflow from data collection to final visualization.
 -------
 
 
